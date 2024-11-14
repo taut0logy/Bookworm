@@ -14,7 +14,7 @@ Bookworm is a SwiftUI application that allows users to manage and review their f
 ## Screenshots
 
 <div style = "display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; flrex-gap: 20px; row-gap: 20px;">
-    <img src = "_Screenshots/home.png" width = "300px%">
+    <img src = "_Screenshots/home.png" width = "300px">
     <img src = "_Screenshots/edit.png" width = "300px">
     <img src = "_Screenshots/review.png" width = "300px">
     <img src = "_Screenshots/select.png" width = "300px">
@@ -24,20 +24,20 @@ Bookworm is a SwiftUI application that allows users to manage and review their f
 
 1. **Clone the Repository**
 
-    ```bash
-    git clone https://github.com/yourusername/bookworm.git
-    ```
+   ```bash
+   git clone https://github.com/yourusername/bookworm.git
+   ```
 
 2. **Open in Xcode**
 
-    ```bash
-    cd bookworm
-    open Bookworm.xcodeproj
-    ```
+   ```bash
+   cd bookworm
+   open Bookworm.xcodeproj
+   ```
 
 3. **Build and Run**
-    - Select the desired simulator or device.
-    - Click the Run button in Xcode.
+   - Select the desired simulator or device.
+   - Click the Run button in Xcode.
 
 ## Usage
 
